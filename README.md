@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Vamshikrishna-Nakka/Python-Tutorial/blob/master/01-Introduction.ipynb) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://github.com/Vamshikrishna-Nakka/Python-Tutorial/blob/master/01-Introduction.ipynb/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 <a href=https://github.com/Vamshikrishna-Nakka/Python-Tutorial/blob/master/01-Introduction.ipynb>Visit W3Schools.com!</a>
